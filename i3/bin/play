@@ -1,0 +1,3 @@
+mocp -c
+mocp -a ~/Music/$1
+mocp -p
